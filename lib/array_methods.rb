@@ -1,4 +1,9 @@
 def using_include(array, element)
+  top_pets = ["dog", "cat", "fish"]
+  
+  top_pets.include?("dog")
+  
+  top_pets.include?("snake")
   
 end
 
